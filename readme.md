@@ -1,6 +1,6 @@
 TOC
 
-- [🚗️ Cars](#️-cars)
+- [Builders](#builders)
 - [Buy for life](#buy-for-life)
   - [wool](#wool)
 - [Cycling](#cycling)
@@ -9,10 +9,38 @@ TOC
   - [Info](#info)
 - [random](#random)
 - [books](#books)
+- [🚗️ Cars](#️-cars)
 
-## 🚗️ Cars
+## Builders
 
-[Independent safety reports](https://www.iihs.org/ratings/vehicle/Toyota/prius-4-door-hatchback/2015)
+[brickie - Stu crompton](https://www.youtube.com/@Stucrompton1/community)
+
+[brickie - steve and alex](https://www.youtube.com/@SteveAndAlexBuild)
+
+[builder - lancashire home life renovations](https://www.homeliferenovations.co.uk/)
+
+[structural engineer - Keskin](http://keskin.co.uk/team.html)
+
+[21 deg eco build](https://www.21degrees.com/)
+
+[builder - elemental](https://elemental-construction-ltd.co.uk/services/)
+
+[builder brickie - m pye](https://www.mpyebuilders.co.uk/our-gallery)
+
+[builder - northern trade solutions](https://www.nts-limited.co.uk/)
+
+[builder - n lowe](https://buildingpreston.com/news/)
+
+[builder - bb construction](https://www.google.co.uk/maps/place/B+B+Construction/@53.5227825,-2.5152168,2664m/data=!3m1!1e3!4m12!1m4!2m3!1sbuilder!5m1!4e9!3m6!1s0x487b07e9ddcd8dc1:0xdbfe42a006d79afe!8m2!3d53.5227825!4d-2.5049171!15sCgdidWlsZGVyWgkiB2J1aWxkZXKSARRjb25zdHJ1Y3Rpb25fY29tcGFueZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VNNWVEUjJVVUpCRUFF4AEA-gEFCMYCEEQ!16s%2Fg%2F11dxhylrm2?entry=ttu&g_ep=EgoyMDI1MTAxNS4wIKXMDSoASAFQAw%3D%3D)
+
+[builder - calibre](https://www.google.co.uk/maps/place/Calibre+Building+Solutions+Ltd/@53.493056,-2.5206931,2666m/data=!3m1!1e3!4m14!1m4!2m3!1sbuilder!5m1!4e9!3m8!1s0x487b077289fbe5f3:0x9da1068b26279b70!8m2!3d53.493056!4d-2.5103934!9m1!1b1!15sCgdidWlsZGVyWgkiB2J1aWxkZXKSAQpjb250cmFjdG9y4AEA!16s%2Fg%2F11c2y91qdj?entry=ttu&g_ep=EgoyMDI1MTAxNS4wIKXMDSoASAFQAw%3D%3D)
+
+[joiner](https://www.idcgroup.co.uk/services/bespoke-joinery-manufacturers)
+
+[plasterer - Kirk](https://www.youtube.com/@Onthetrowel)
+
+[builder - j b loughlin](https://find-and-update.company-information.service.gov.uk/company/03115707)
+
 
 ## Buy for life
 
@@ -80,3 +108,7 @@ search for: National Standard Accredited Cycle Instructor
 [1984](https://www.ebay.co.uk/itm/384784049555?epid=87514742&itmmeta=01HV2AC37XYGFN3A9AKRAT528R&hash=item5996eaa593:g:TdMAAOSwv59gjn~M)
 
 [ebay seller musicMagpie Shop](https://www.ebay.co.uk/sch/i.html?_dkr=1&iconV2Request=true&_blrs=recall_filtering&_ssn=musicmagpie&store_cat=0&store_name=musicmagpie&_oac=1&_nkw=draw)
+
+## 🚗️ Cars
+
+[Independent safety reports](https://www.iihs.org/ratings/vehicle/Toyota/prius-4-door-hatchback/2015)
