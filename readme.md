@@ -7,6 +7,7 @@ TOC
 - [Bees](#bees)
 - [🏠️ House](#️-house)
   - [Info](#info)
+  - [Glasgow areas](#glasgow-areas)
 - [random](#random)
 - [books](#books)
 - [🚗️ Cars](#️-cars)
@@ -92,6 +93,10 @@ search for: National Standard Accredited Cycle Instructor
 [Eco building materials](https://ecoedition.net/8-eco-alternatives-to-plasterboard/)
 
 [Eco building materials - chem free](https://www.mychemicalfreehouse.net/2021/04/zero-voc-flooring.html)
+
+### Glasgow areas
+
+Cathcart, Battlefield, West End, Giffnock, Shawlands, Clarkston, Bearsden, 
 
 ## random
 
