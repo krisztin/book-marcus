@@ -9,6 +9,7 @@ TOC
   - [Info](#info)
   - [Glasgow areas](#glasgow-areas)
 - [random](#random)
+- [writing info](#writing-info)
 - [books](#books)
 - [🚗️ Cars](#️-cars)
 
@@ -101,6 +102,28 @@ Cathcart, Battlefield, West End, Giffnock, Shawlands, Clarkston, Bearsden,
 ## random
 
 [retro brite restore yellowed plastics](https://www.amazon.com/dp/B08668347P)
+
+## writing info
+
+[Qualitative and Quantitative Research: Glossary of Key Terms](https://wac.colostate.edu/repository/writing/guides/guide/index.cfm?guideid=90)
+
+[SEALs suck](https://www.reddit.com/r/WarCollege/comments/en6vt0/comment/fdw9xzz/)
+
+[Top Forensic Pathologist Dr Richard Shepherd breaks down autopsy scenes in film & TV](https://www.youtube.com/watch?v=lb9BevLBfgk)
+
+[AccessAble accessibility guide for buildings - Department of Physics (Bragg Building)](https://www.accessable.co.uk/university-of-cambridge/west-cambridge-site/access-guides/department-of-physics-bragg-building#3bc79d7a-47bd-4548-ab6b-6f1f209163a3)
+
+[Dreamtime Stories](https://www.kullillaart.com.au/dreamtime-stories/)
+
+[Irish Myths - What Is the Celtic Otherworld? Tír na nÓg](https://irishmyths.com/2024/06/08/celtic-otherworld/)
+
+Indian wear - angrakha sherwani
+
+[Scottish insults](https://www.reddit.com/r/Scotland/comments/1j9njud/whats_the_best_insultsimilequote_youve_ever_heard/)
+
+[You are 8% virus](https://www.youtube.com/shorts/w6AM8J9WBPA)
+
+[r/hystopathology](https://www.reddit.com/r/JuniorDoctorsUK/search/?q=histopatology&cId=14296857-a60c-4053-9c1a-f9934e9daf47&iId=9e43fdda-b971-4e9f-8454-d89112c98433)
 
 ## books
 
