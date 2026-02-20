@@ -140,3 +140,11 @@ Indian wear - angrakha sherwani
 ## 🚗️ Cars
 
 [Independent safety reports](https://www.iihs.org/ratings/vehicle/Toyota/prius-4-door-hatchback/2015)
+
+[Car measurments](https://www.ridc.org.uk/features-reviews/out-and-about/choosing-car/car?open=General)
+
+[i3](https://www.ridc.org.uk/features-reviews/out-and-about/choosing-car/car/i3s-5dr-hatch-2018)
+
+[leaf](https://www.ridc.org.uk/features-reviews/out-and-about/choosing-car/car/leaf-5dr-hatch-2018)
+
+[Ioniq 5](https://www.ridc.org.uk/features-reviews/out-and-about/choosing-car/car/ioniq-5dr-hatch-2017)
