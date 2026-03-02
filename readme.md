@@ -147,4 +147,4 @@ Indian wear - angrakha sherwani
 
 [leaf](https://www.ridc.org.uk/features-reviews/out-and-about/choosing-car/car/leaf-5dr-hatch-2018)
 
-[Ioniq 5](https://www.ridc.org.uk/features-reviews/out-and-about/choosing-car/car/ioniq-5dr-hatch-2017)
+[Ioniq 5](https://www.ridc.org.uk/features-reviews/out-and-about/choosing-car/car/ioniq-5-774-kwh-2wd-5dr-saloon-2023)
