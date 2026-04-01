@@ -52,6 +52,10 @@ TOC
 
 [boots - wellies](https://www.lbcboots.com/)
 
+[PJs](https://noctu.co.uk/shopall/womens-harems-fig)
+
+[workpants](www.siteking.co.uk/dx4-womens-detachable-holster-pocket-trousers/)
+
 ### wool
 
 [Mars](https://marsknitwear.com/collections/jumpers/Unisex)
@@ -61,6 +65,12 @@ TOC
 [Jamieson's](https://www.jamiesonsofshetland.co.uk/)
 
 [solva](https://www.solvawoollenmill.co.uk/ladies-cowl-cable-jumper)
+
+### Autism
+
+[earplugs](https://www.loopearplugs.com/)
+
+[tablet](https://remarkable.com/)
 
 ## Cycling
 
