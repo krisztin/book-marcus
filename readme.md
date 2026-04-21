@@ -13,6 +13,8 @@ TOC
 - [books](#books)
 - [🚗️ Cars](#️-cars)
 
+[EU alternatives](https://european-alternatives.eu/)
+
 ## Builders
 
 [brickie - Stu crompton](https://www.youtube.com/@Stucrompton1/community)
