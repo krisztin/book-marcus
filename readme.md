@@ -48,6 +48,8 @@ TOC
 
 ## Buy for life
 
+[thermo undershirt](https://www.nordiclife.co.uk/collections/brynje/products/brynje-wool-thermo-shirt)
+
 [buy me once](https://www.buymeonce.co.uk/)
 
 [boots - altberg](https://www.altberg.co.uk/boots/5-width-fitting-boots/tethera-men)
