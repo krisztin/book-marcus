@@ -60,6 +60,10 @@ TOC
 
 [workpants](www.siteking.co.uk/dx4-womens-detachable-holster-pocket-trousers/)
 
+[wool slippers - Haflinger](https://www.haflingershoes.co.uk/men)
+
+[wool slippers - Glerups](https://www.glerups.co.uk/products/the-slip-on-with-natural-rubber-sole-honey-forest?variant=43640737562908)
+
 ### wool
 
 [Mars](https://marsknitwear.com/collections/jumpers/Unisex)
