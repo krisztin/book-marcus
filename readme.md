@@ -64,6 +64,9 @@ TOC
 
 [wool slippers - Glerups](https://www.glerups.co.uk/products/the-slip-on-with-natural-rubber-sole-honey-forest?variant=43640737562908)
 
+### Ethical clothing
+[Community clothing](https://communityclothing.co.uk/collections/womens-jeans)
+
 ### wool
 
 [Mars](https://marsknitwear.com/collections/jumpers/Unisex)
