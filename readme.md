@@ -1,5 +1,6 @@
 TOC
 
+- [UX](#ux)
 - [Builders](#builders)
 - [Buy for life](#buy-for-life)
   - [wool](#wool)
@@ -14,6 +15,30 @@ TOC
 - [🚗️ Cars](#️-cars)
 
 [EU alternatives](https://european-alternatives.eu/)
+
+## UX
+
+[https://uxmyths.com/](UX myths)
+[NNG](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
+[Dovetail](https://www.dovetail.network/about) - We help UK charities find their perfect digital partner
+[Shared Digital guides](https://www.shareddigitalguides.org.uk/guides/designing-user-centred-services-using-miro-figma-and-chatgpt) - Non-profit organisations share step-by-step Guides to handy ways of using digital tools
+[Inclusive components book](https://book.inclusive-components.design/
+[Design systems in figma](https://designcode.io/design-system-in-figma)
+[Design pattern guidelines](https://www.nngroup.com/articles/design-pattern-guidelines/)
+[Photopea](https://www.photopea.com/)
+[Colour oracle](https://colororacle.org/) - free color blindness simulator for Windows, Mac and Linux
+
+### Dev
+
+[Time-saving CSS techniques to create responsive images](https://www.freecodecamp.org/news/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
+[30s of code](https://www.30secondsofcode.org/)
+[normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)
+[Donorbox](https://donorbox.org/) - Donorbox turns effortless giving into donor trust, deeper relationships, and predictable funding
+[Modern CSS solutions](https://moderncss.dev/)
+[CSSmatic](https://www.cssmatic.com/) - Learn CSS. Generate CSS.
+[Undraw illustrations](https://undraw.co/illustrations)
+[Typescale](https://typescale.com/) - pick font sizes for p and headings
+[CSS gradients](https://www.gradientmagic.com/category/stripes)
 
 ## Builders
 
