@@ -18,9 +18,9 @@ TOC
 
 ## UX
 
-[https://uxmyths.com/](UX myths)
+[https://uxmyths.com](UX myths)
 
-[NNG](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
+[NNG](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation)
 
 [Dovetail](https://www.dovetail.network/about) - We help UK charities find their perfect digital partner
 
