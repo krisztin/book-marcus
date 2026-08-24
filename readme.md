@@ -18,7 +18,7 @@ TOC
 
 ## UX
 
-[https://uxmyths.com](UX myths)
+[UX myths](https://uxmyths.com)
 
 [NNG](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation)
 
@@ -26,7 +26,7 @@ TOC
 
 [Shared Digital guides](https://www.shareddigitalguides.org.uk/guides/designing-user-centred-services-using-miro-figma-and-chatgpt) - Non-profit organisations share step-by-step Guides to handy ways of using digital tools
 
-[Inclusive components book](https://book.inclusive-components.design/
+[Inclusive components book](https://book.inclusive-components.design/)
 
 [Design systems in figma](https://designcode.io/design-system-in-figma)
 
